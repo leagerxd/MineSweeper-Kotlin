@@ -12,4 +12,10 @@ If the player successfully clears all the tiles without hitting a mine, they win
 ![image](https://user-images.githubusercontent.com/89913477/212395854-72dbffb1-b8f7-4eb5-bf1e-173669ce52d8.png) 
 ![image](https://user-images.githubusercontent.com/89913477/212395870-718c062c-899c-4082-bfa6-8cb0e43cbba0.png)
 
+<code>Path to main gamefiles: </code>
 
+<code>app/src/androidTest/java/com/minesweeper/game/minesweeper/</code>
+
+<code>Minesweeper-Kotlin/app/src/main/java/</code>
+
+<code>Minesweeper-Kotlin/app/src/test/java/</code>
