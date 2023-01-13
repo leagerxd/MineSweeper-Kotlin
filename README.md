@@ -7,6 +7,9 @@ The player can mark tiles, that they suspect contain mines, and can reveal tiles
 If the player successfully clears all the tiles without hitting a mine, they win the game
 
 <code>Some screenshots of the game:</code>
-![image](https://user-images.githubusercontent.com/89913477/212395370-e54ee6b9-93be-478d-8969-dedfa0f671c9.png)
-![image](https://user-images.githubusercontent.com/89913477/212395381-3971cff9-eb7b-48b6-a627-981383ecfd7e.png)
+
+![image](https://user-images.githubusercontent.com/89913477/212395847-7bcd4f9f-6ac3-4b3e-b679-ca937178ef6e.png)
+![image](https://user-images.githubusercontent.com/89913477/212395854-72dbffb1-b8f7-4eb5-bf1e-173669ce52d8.png) 
+![image](https://user-images.githubusercontent.com/89913477/212395870-718c062c-899c-4082-bfa6-8cb0e43cbba0.png)
+
 
