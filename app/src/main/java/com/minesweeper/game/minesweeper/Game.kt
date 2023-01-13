@@ -1,4 +1,4 @@
-package com.nazar.rgr.minesweeper
+package com.minesweeper.game.minesweeper
 
 import utils.DoublyIndexedItem
 import utils.choose

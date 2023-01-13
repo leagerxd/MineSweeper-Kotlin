@@ -1,6 +1,6 @@
-package com.nazar.rgr.minesweeper
+package com.minesweeper.game.minesweeper
 
-import com.nazar.rgr.minesweeper.textGame.TextGame
+import com.minesweeper.game.minesweeper.textGame.TextGame
 import org.junit.After
 import org.junit.Assert.assertEquals
 import org.junit.Before

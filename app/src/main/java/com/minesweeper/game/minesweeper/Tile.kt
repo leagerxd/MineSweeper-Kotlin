@@ -1,4 +1,4 @@
-package com.nazar.rgr.minesweeper
+package com.minesweeper.game.minesweeper
 
 open class Tile {
     enum class State { HIDDEN, FLAGGED, MINE, NUMBERED }
